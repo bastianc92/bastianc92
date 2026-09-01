@@ -1,4 +1,4 @@
-👋 Hola, soy Sebastián Castañeda Diosa.
+👋 Hola, soy Sebastián Castañeda D.
 
 💻 Tecnólogo en Desarrollo de Software del Instituto Tecnológico Metropolitano (ITM).
 Apasionado por el desarrollo backend, la computación en la nube y la construcción de soluciones tecnológicas que generen valor real. Actualmente continúo fortaleciendo mis conocimientos en Java, Spring Boot, AWS, Docker y arquitectura de software.
@@ -70,6 +70,6 @@ Tecnólogo en Diseño y Programación de Soluciones de Software
 📍 Medellín, Colombia
 💼 LinkedIn: https://www.linkedin.com/in/sebastian-castañeda-diosa-77228a39a/
 
-🌐 PeakU: https://peaku.co/es
+Siempre estoy abierto a oportunidades como Desarrollador Backend Junior, Desarrollador Java Junior o roles de Cloud/DevOps.
 
 Siempre estoy abierto a oportunidades como Desarrollador Backend Junior, Desarrollador Java Junior o roles de Cloud/DevOps.
