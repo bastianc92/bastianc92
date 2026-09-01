@@ -70,6 +70,6 @@ Tecnólogo en Diseño y Programación de Soluciones de Software
 📍 Medellín, Colombia
 💼 LinkedIn: https://www.linkedin.com/in/sebastian-castañeda-diosa-77228a39a/
 
-Siempre estoy abierto a oportunidades como Desarrollador Backend Junior, Desarrollador Java Junior o roles de Cloud/DevOps.
 
-Siempre estoy abierto a oportunidades como Desarrollador Backend Junior, Desarrollador Java Junior o roles de Cloud/DevOps.
+
+
