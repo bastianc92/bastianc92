@@ -1,75 +1,24 @@
-👋 Hola, soy Sebastián Castañeda D.
-
-💻 Tecnólogo en Desarrollo de Software del Instituto Tecnológico Metropolitano (ITM).
-Apasionado por el desarrollo backend, la computación en la nube y la construcción de soluciones tecnológicas que generen valor real. Actualmente continúo fortaleciendo mis conocimientos en Java, Spring Boot, AWS, Docker y arquitectura de software.
-
-🚀 Tecnologías y Herramientas
-
-Backend
-* Java
-* Spring Boot
-* Node.js
-* Python
-* APIs REST
-
-Bases de Datos
-* MySQL
-* PostgreSQL
-* MongoDB
-* SQL Server
-
-Cloud & DevOps
-* AWS (EC2, ECS, RDS, S3, CodeBuild)
-* Docker
-* CI/CD
-
-Herramientas
-* Git
-* GitHub
-* Scrum
-* Metodologías Ágiles
-
-También he trabajado con: HTML, CSS, JavaScript, Angular (frontend) y Flutter, Firebase (desarrollo móvil).
-
-📌 Proyectos Destacados
-
-API Calendario Laboral
-API REST desarrollada con Java y Spring Boot para la gestión de festividades y calendarios laborales empresariales.
-Tecnologías: Java, Spring Boot, PostgreSQL, Docker, AWS ECS, Amazon RDS, CI/CD
-🔗 https://github.com/bastianc92/Api-calendario
-
-Plataforma de Microservicios de Festividades
-Arquitectura basada en microservicios utilizando Spring Boot, Node.js, PostgreSQL y MongoDB.
-Tecnologías: Java, Spring Boot, Node.js, MongoDB, PostgreSQL
-🔗 https://github.com/bastianc92/microservicios-festivos
-
-Aplicación Móvil Galería de Imágenes
-Aplicación móvil desarrollada en Flutter con autenticación y almacenamiento de imágenes mediante Firebase.
-Tecnologías: Flutter, Firebase, Dart
-🔗 https://github.com/bastianc92/Galeria_imagenes_flutter
-
-Portafolio Personal
-Sitio web personal desarrollado con HTML, CSS y JavaScript.
-🔗 https://github.com/bastianc92/portfolio
-
-🎓 Formación Académica
-Instituto Tecnológico Metropolitano (ITM)
-Tecnólogo en Diseño y Programación de Soluciones de Software
-2022 - 2026
-
-📚 Actualmente aprendiendo
-* Arquitectura de Software
-* Microservicios
-* AWS Cloud
-* Docker
-* Spring Boot Avanzado
-* Python
-* Ciberseguridad
-
-📫 Contacto
-📍 Medellín, Colombia
-💼 LinkedIn: https://www.linkedin.com/in/sebastian-castañeda-diosa-77228a39a/
+# 💫 About Me:
+<h1 align="center">👋 Hola, soy Sebastián Castañeda D.</h1><br><br><h3 align="center">Backend Developer Junior | Java · Spring Boot · AWS</h3><br><br><p align="center"><br>  <a href="https://www.linkedin.com/in/sebastian-casta%C3%B1eda-diosa-77228a39a/" target="_blank"><br>    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /><br>  </a><br></p><br><br>💻 Tecnólogo en Desarrollo de Software del Instituto Tecnológico Metropolitano (ITM). Apasionado por el desarrollo backend, la computación en la nube y la construcción de soluciones tecnológicas que generen valor real. Actualmente continúo fortaleciendo mis conocimientos en Java, Spring Boot, AWS, Docker y arquitectura de software.<br><br>- 🔭 Actualmente trabajando en **StockCrate**, mi proyecto de grado (sistema web de gestión de inventario)<br>- 🤝 Buscando colaborar en **proyectos backend con Java, Spring Boot y AWS**<br>- 🌱 Buscando ayuda con **arquitectura de microservicios y despliegues en AWS**<br>- 💬 Pregúntame sobre **Java, Spring Boot, AWS, Docker y bases de datos**<br>- 📫 Cómo comunicarte conmigo: **[LinkedIn](https://www.linkedin.com/in/sebastian-casta%C3%B1eda-diosa-77228a39a/)**<br>- ⚡ Dato curioso: estoy construyendo mi proyecto de grado, StockCrate, un sistema de gestión de inventario<br><br>---<br><br>## 🚀 Tecnologías y Herramientas<br><br>**Backend**<br>* Java<br>* Spring Boot<br>* Node.js<br>* Python<br>* APIs REST<br><br>**Bases de Datos**<br>* MySQL<br>* PostgreSQL<br>* MongoDB<br>* SQL Server<br><br>**Cloud & DevOps**<br>* AWS (EC2, ECS, RDS, S3, CodeBuild)<br>* Docker<br>* CI/CD<br><br>**Herramientas**<br>* Git<br>* GitHub<br>* Scrum<br>* Metodologías Ágiles<br><br>También he trabajado con: HTML, CSS, JavaScript, Angular (frontend) y Flutter, Firebase (desarrollo móvil).<br><br><p align="left"><br><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><br><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a><br><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a><br><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><br><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a><br><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a><br><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a><br><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><br><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><br><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a><br><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutterio/flutterio-original.svg" alt="flutter" width="40" height="40"/></a><br><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a><br><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a><br></p><br><br>---<br><br>## 📌 Proyectos Destacados<br><br>**API Calendario Laboral**<br>API REST desarrollada con Java y Spring Boot para la gestión de festividades y calendarios laborales empresariales.<br>Tecnologías: Java, Spring Boot, PostgreSQL, Docker, AWS ECS, Amazon RDS, CI/CD<br>🔗 https://github.com/bastianc92/Api-calendario<br><br>**Plataforma de Microservicios de Festividades**<br>Arquitectura basada en microservicios utilizando Spring Boot, Node.js, PostgreSQL y MongoDB.<br>Tecnologías: Java, Spring Boot, Node.js, MongoDB, PostgreSQL<br>🔗 https://github.com/bastianc92/microservicios-festivos<br><br>**Aplicación Móvil Galería de Imágenes**<br>Aplicación móvil desarrollada en Flutter con autenticación y almacenamiento de imágenes mediante Firebase.<br>Tecnologías: Flutter, Firebase, Dart<br>🔗 https://github.com/bastianc92/Galeria_imagenes_flutter<br><br>**Portafolio Personal**<br>Sitio web personal desarrollado con HTML, CSS y JavaScript.<br>🔗 https://github.com/bastianc92/portfolio<br><br>---<br><br>## 🎓 Formación Académica<br><br>**Instituto Tecnológico Metropolitano (ITM)**<br>Tecnólogo en Diseño y Programación de Soluciones de Software<br>2022 - 2026<br><br>---<br><br>## 📚 Actualmente aprendiendo<br>* Arquitectura de Software<br>* Microservicios<br>* AWS Cloud<br>* Docker<br>* Spring Boot Avanzado<br>* Python<br>* Ciberseguridad<br><br>---<br><br>## 📊 GitHub Stats<br><br><p align="left"><br><img src="https://github-readme-stats.vercel.app/api?username=bastianc92&show_icons=true&theme=default" alt="bastianc92" width="48%" /><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=bastianc92" alt="bastianc92" width="48%" /><br></p><br><br><p align="left"><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastianc92&layout=compact" alt="bastianc92" /><br></p><br><br>---<br><br>## 📫 Contacto<br>📍 Medellín, Colombia<br>💼 LinkedIn: https://www.linkedin.com/in/sebastian-casta%C3%B1eda-diosa-77228a39a/
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebastian-casta%C3%B1eda-diosa-77228a39a/) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bastianc92&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=bastianc92&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bastianc92&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bastianc92&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bastianc92&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=bastianc92&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
